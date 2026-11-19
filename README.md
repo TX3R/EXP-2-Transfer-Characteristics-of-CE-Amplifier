@@ -22,7 +22,7 @@ ii) Set IB and vary VCE in regular intervals of steps and note down the correspo
 iii) Plot the graph: VCE vs IC for a constant IB.
 
 circuit diagram:
-<img width="1892" height="398" alt="image" src="https://github.com/user-attachments/assets/fad1014a-9e07-4585-93ff-f54e47dff14c" />
+<img width="998" height="617" alt="image" src="https://github.com/user-attachments/assets/d1f115b5-9b53-422a-b681-55304361db0f" />
 
 GRAPH:
 <img width="1892" height="398" alt="image" src="https://github.com/user-attachments/assets/9e7d7c87-874d-4d22-a008-d1d399c8086f" />
